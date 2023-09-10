@@ -1,7 +1,7 @@
 ### Hi there, I'm Audrey 👋
 
 - 🔭 I’m currently working on college applications and a research paper about ML.
-- 🌱 I’m currently learning front-end development, AI/ML, physics, and how to not hate AP English.
+- 🌱 I’m currently learning front-end development, AI/ML, and physics.
 - 💻 I've been coding for a year - I know HTML, CSS, JavaScript, Python, Java, and Swift.
 - 👯 I’m looking to collaborate on Hackathons and software projects.
 - 🤔 I’m looking for help with anything and everything code - I'm always excited to learn more.
