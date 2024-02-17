@@ -1,6 +1,6 @@
 ### Hi there, I'm Audrey 👋
 
-- 🔭 I’m currently working on college applications (manifesting Northeastern 🙏)
+- 🔭 I’m a high school senior.
 - 🌱 I’m currently learning front-end development, AI/ML, and physics.
 - 💻 I've been coding for about a year - I know HTML, CSS, JavaScript, Python, Java, and Swift.
 - 👯 I’m looking to collaborate on Hackathons and software projects.
