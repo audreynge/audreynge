@@ -1,4 +1,4 @@
-### Hi there, I'm Audrey 👋
+### Hi, I'm Audrey 👋
 
 - 🔭 I’m a high school senior.
 - 🌱 I’m currently trying to learn more about using back-end languages.
