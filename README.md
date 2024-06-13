@@ -1,7 +1,7 @@
 ### Hi, I'm Audrey 👋
 
-- 🔭 I’m a high school senior.
-- 🌱 I’m currently trying to learn more about using back-end languages.
+- 🔭 I’m an incoming college freshman.
+- 🌱 I’m currently learning more on back-end (Go and PostgreSQL)
 - 💻 I've been coding for about a year and a half - I know HTML, CSS, JavaScript, Python, Java, and Swift.
 - 👯 I’m looking to collaborate on Hackathons and software projects.
 - 📫 How to reach me: audreynge@gmail.com
