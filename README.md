@@ -2,12 +2,11 @@
 <h3 align="center">A passionate full-stack developer and ML enthusiast from NYC</h3>
 
 - 🔭 I’m a second-year at Northeastern University pursuing a major in computer science (AI concentration) and a minor in math.
-- 🌱 I’m currently learning **machine learning and DevOps**.
-- 💻 I've been coding for about three years, with experience in full-stack development and a little bit of data science.
+- 💻 I've been coding for about three years, with experience in full-stack development and data science.
 - 📫 How to reach me: **audreynge@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=aws,bootstrap,css,docker,eclipse,express,figma,flask,git,gitlab,go,html,java,jest,js,linux,mongodb,mysql,md,nextjs,nodejs,npm,postgres,postman,py,react,sqlite,sklearn,tailwind,ts,vercel,vite"/>
+<img src="https://skillicons.dev/icons?i=aws,css,docker,express,figma,flask,git,go,html,java,jest,js,linux,mongodb,mysql,md,nextjs,nodejs,npm,postgres,postman,py,react,sqlite,sklearn,tailwind,ts,vercel,vite"/>
 
 <h3 align="left">Let's connect!</h3> 
 <p align="left"> 
