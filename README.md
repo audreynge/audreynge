@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Audrey</h1>
-<h3 align="center">A passionate full-stack developer and ML enthusiast from NYC</h3>
+<h3 align="center">Software Engineer | Photographer | Speedcuber</h3>
 
-- 🔭 I’m a second-year at Northeastern University pursuing a major in computer science (AI concentration) and a minor in math.
-- 💻 I've been coding for about three years, with experience in full-stack development and data science.
-- 📫 How to reach me: **audreynge@gmail.com**
+- 🔭 I’m a second-year Computer Science student at Northeastern University
+- 💻 I've been coding for ~3 years
+- 🕵 I specialize in full-stack development and agentic AI systems
+- 📧 **audreynge@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=aws,css,docker,express,figma,flask,git,go,html,java,jest,js,linux,mongodb,mysql,md,nextjs,nodejs,npm,postgres,postman,py,react,sqlite,sklearn,tailwind,ts,vercel,vite"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,express,java,jest,js,nextjs,postgres,postman,py,react,tailwind,ts,vercel"/>
 
 <h3 align="left">Let's connect!</h3> 
 <p align="left"> 
