@@ -3,7 +3,7 @@
 
 - 📚 I’m a third-year Computer Science student at Northeastern University
 - 🖥️ I have experience in full-stack development, agentic AI, and distributed systems
-- 💼 SWE Intern @ [Zipline](https://github.com/audreyng-zipline)
+- 💼 SWE Intern @ [Zipline](https://github.com/audreyng-zipline), prev. @ Microsoft, Siemens
 - 📧 audreynge@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
