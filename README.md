@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Audrey</h1>
 <h3 align="center">Software Engineer • NYC & Boston </h3>
 
-- 📚 I’m a third-year Computer Science student at Northeastern University
-- 🖥️ I have experience in full-stack development, agentic AI, and distributed systems
-- 💼 SWE Intern @ [Zipline](https://github.com/audreyng-zipline), prev. @ Microsoft, Siemens
+- 📚 I’m a third-year computer science student at Northeastern University, concentrating in systems
+- 🖥️ I have experience in full-stack development, agentic AI, distributed systems, and product engineering
+- 💼 prev. @ Zipline, Microsoft, Siemens
 - 📧 audreynge@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
